@@ -1,0 +1,17 @@
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\bin\Debug\CrackmeByMiraii.exe.config
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\bin\Debug\CrackmeByMiraii.exe
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\bin\Debug\CrackmeByMiraii.pdb
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.csproj.AssemblyReference.cache
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.CrackmeByMiraii.resources
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.Properties.Resources.resources
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.YouCrackedIt.resources
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.csproj.GenerateResource.cache
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.exe.licenses
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.csproj.CoreCompileInputs.cache
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.csproj.CopyComplete
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.exe
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\obj\Debug\CrackmeByMiraii.pdb
+C:\Users\mrcla\source\repos\CrackmeByMiraii\CrackmeByMiraii\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
